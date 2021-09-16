@@ -6,7 +6,7 @@
   <title>Đây là trang web đầu tiên của tôi.</title>
 
   <head>
-    <font color="Lime">
+    <font color="Black">
 
   <body>
     <h1>Giới thiệu cá nhân </h1>
